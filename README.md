@@ -1,16 +1,10 @@
-# Qb64x-Quotient-Remainder
-Qb64x program  Quotient-Remainder 
-
+- 👋 Hi, I’m @ClassyBadshah
+- 👀 I’m interested in programming ...
+- 🌱 I’m currently learning basic programs...
+- 💞️ I’m looking for computer science website ...
+- 📫 mail soon  ...
 
 <!---
-Cls
-
-Input a
-Input b
-Quotient = a / b
-remainder = a Mod b
-Print Quotient
-Print remainder
-
-End
+ClassyBadshah/ClassyBadshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
 --->
